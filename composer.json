@@ -1,0 +1,21 @@
+{
+    "name": "markux/yii2-modal-form",
+    "description": "automatic widget to create a button that open modal form ",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","modal","ajax","form"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marco Patania",
+            "email": "marco.patania@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "markux\\modal\\": ""
+        }
+    }
+}
